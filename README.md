@@ -1,3 +1,6 @@
 # Pytorch
 **Pytorch** files and projects:
-This include the ComputerVision 💻🥽
+> `This includes`:
+>  ComputerVision 💻🥽
+> Classification. 🕵️😣
+> Modualr Design. 🚒 
