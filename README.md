@@ -1,2 +1,3 @@
 # Pytorch
-Pytorch files and projects
+**Pytorch** files and projects:
+This include the ComputerVision 💻🥽
