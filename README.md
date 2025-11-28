@@ -1,4 +1,4 @@
-# Pytorch
+# Pytorch 🔦 🔦 
 **Pytorch** files and projects:
 
 **PyTorch** is a deep learning framework that lets you build and train neural networks easily and efficiently, especially on GPUs.
@@ -22,3 +22,4 @@ It handles:
 >  ComputerVision 💻🥽
 > Classification. 🕵️😣
 > Modualr Design. 🚒 
+> And many more .....   💮 👽
