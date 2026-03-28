@@ -1,25 +1,83 @@
-# Pytorch 🔦 🔦 
-**Pytorch** files and projects:
+# PyTorch Learning Playground
 
-**PyTorch** is a deep learning framework that lets you build and train neural networks easily and efficiently, especially on GPUs.
-It handles:
+A collection of experiments and mini-projects built while learning **PyTorch and deep learning concepts**.
 
-* Tensors (like NumPy arrays but on GPU)
+This repository contains implementations, experiments, and notes exploring how neural networks work using PyTorch.
 
-* Automatic differentiation
+---
 
+## What This Repo Contains
+
+* Tensor operations
+* Autograd experiments
+* Neural network examples
 * Training loops
+* Small deep learning projects
 
-* GPU acceleration
+---
 
-* Neural network layers
+## Example Experiments
 
-* Optimizers
+### 1. Tensor Basics
 
-* Loss functions
+Learning how PyTorch tensors work compared to NumPy.
 
-> `This includes`:
->  ComputerVision 💻🥽
-> Classification. 🕵️😣
-> Modualr Design. 🚒 
-> And many more .....   💮 👽
+### 2. Autograd
+
+Understanding automatic differentiation.
+
+### 3. Neural Networks
+
+Simple feedforward networks implemented using `torch.nn`.
+
+---
+
+## Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/Sayanth789/Pytorch.git
+cd Pytorch
+```
+
+Install dependencies:
+
+```
+pip install torch
+```
+
+---
+
+## Running Examples
+
+```
+python example_nn.py
+```
+
+---
+
+## Goals of this Project
+
+* Learn PyTorch fundamentals
+* Experiment with deep learning models
+* Understand training pipelines
+
+---
+
+## Future Work
+
+* CNN implementation
+* MNIST digit classifier
+* Visualization of gradients
+* Model training dashboard
+
+---
+
+## Contributing
+
+Contributions and suggestions are welcome.
+
+---
+
+⭐ If you find this project useful, consider starring the repository.
